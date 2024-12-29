@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SPDHTC
 
 ## Deskripsi
@@ -350,3 +351,7 @@ Lisensi dari proyek/aplikasi ini di bawah [WTFPL](./COPYING).
         <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rizkyilhampra/spdhtc&type=Timeline" />
     </picture>
 </a>
+=======
+# SALAKEXPERT
+TUGAS
+>>>>>>> f783f5b9ee40287c35f3c884140565844a96988f
