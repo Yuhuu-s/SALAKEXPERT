@@ -3,7 +3,7 @@
         <div class="d-flex justify-content-center">
             <small class="font-monospace">
                 Copyright &copy; {{ date('Y') }}
-                <a class="font-monospace text-reset font-semibold" href="https://github.com/rizkyilhampra/spdhtc" target="_blank">SPDHTC</a>. All rights
+                <a class="font-monospace text-reset font-semibold" href="https://github.com/rizkyilhampra/spdhtc" target="_blank">SALAKEXPERT</a>. All rights
                 reserved.
             </small>
         </div>

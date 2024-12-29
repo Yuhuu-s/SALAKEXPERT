@@ -25,7 +25,7 @@ class Penyakit extends Seeder
             'reason' => 'Virus Gemini. Virus ini ditularkan oleh kutu putih/kutu kebul Bemisia tabaci',
             'solution' => '1.	 Penggunaan mulsa perak di dataran tinggi, dan jerami di dataran rendah mengurangi infestasi serangga pengisap daun
             2.	Eradikasi tanaman sakit, yaitu tanaman yang menunjukkan gejala segera dicabut dan dimusnahkan supaya tidak menjadi sumber penularan ke tanaman lain yang sehat
-            3.	Menanam varietas yang agak tahan (karena tidak ada yang tahan) misalnya cabai keriting jenis Bukittinggi
+            3.	Menanam varietas yang agak tahan (karena tidak ada yang tahan) misalnya salak keriting jenis Bukittinggi
             4.	Melakukan rotasi / pergiliran tanaman dengan tanaman bukan inang. Melakukan sanitasi lingkungan
             5.  Lakukan pengendalian untuk gejala ringan dengan mengaplikasikan pgpr atau pupuk hayati
             6.  Pemupukan yang berimbang, yaitu 150-200 kg Urea, 450-500 kg Za, 100-150 kg TSP, 100-150 KCL, dan 20-30 ton pupuk organik per hektar
@@ -39,7 +39,7 @@ class Penyakit extends Seeder
             'reason' => 'Chilli Puckery Stunt Virus (CPSV), patogen ditularkan oleh kutudaun Aphis gossypii ',
             'solution' => '1.	 Tanaman muda yang terinfeksi virus di lapangan dimusnahkan dan disulam dengan yang sehat.
             2.	Penggunaan mulsa plastik perak di dataran tinggi, dan jerami di dataran rendah mengurangi infestasi kutudaun yang berperan sebagai vektor virus.
-            3.  Intercropping antara cabai dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil panen.
+            3.  Intercropping antara salak dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil panen.
             4.  Pemupukan yang berimbang, yaitu Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton perhektar
             5.	Aplikasi insektisida untuk mengendalikan kutudaun menggunakan nozel kipas agar terjadi pengurangan volume inseksida sebanyak 30%.
             ',
@@ -75,7 +75,7 @@ class Penyakit extends Seeder
             'reason' => 'Phytophthora Capsici',
             'solution' => '1.   Penggunaan mulsa plastik perak di dataran tinggi, dan jerami di dataran rendah mengurangi infestasi penyakit, terutama di musim hujan.
             2.  Tanaman muda yang terinfeksi penyakit di lapangan dimusnahkan dan disulam dengan yang sehat.
-            3.	Intercropping antara cabai dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil panen.
+            3.	Intercropping antara salak dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil panen.
             4.	Pemupukan yang berimbang, yaitu Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton per hektar.
             5.	Cendawan Phytophthora capsici dapat dikendalikan dengan fungisida sistemik Metalaksil-M 4% + Mancozeb 64% (Ridomil Gold MZ ® 4/64 WP) pada konsentrasi 3 g/l air, bergantian dengan fungisida kontak seperti klorotalonil (Daconil ® 500 F, 2g/l). Fungisida sistemik digunakan maksimal empat kali per musim.
             6.	Untuk mengurangi penggunaan pestisida (+ 30%) dianjurkan untuk menggunakan nozel kipas yang butiran semprotannya berupa kabut dan merata.
@@ -91,7 +91,7 @@ class Penyakit extends Seeder
             3.	Tanah-tanah yang terkontaminasi penyakit layu jangan digunakan. Infeksi penyakit layu dapat dipelajari pada tanaman sebelumnya.
             4.  Sterilkan tanah serta lakukan pencegahan dengan menggunakan pupuk organik yang sudah masak, kocorkan agens hayati (Trichoderma atau pgpr)
             5.  Membersihkan lahan dari sisa-sisa tanaman dan gulma sebelumnya. Membalik tanah agar terkena sinar matahari.
-            6.	Intercropping antara cabai dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil.
+            6.	Intercropping antara salak dan tomat di dataran tinggi dapat mengurangi serangan hama dan penyakit serta menaikkan hasil.
             7.	Pemupukan yang berimbang yaitu Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton per hektar.
             ',
             'image' => '1057130417.jpg',

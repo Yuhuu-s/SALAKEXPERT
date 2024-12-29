@@ -1,9 +1,9 @@
 <aside id="sidebar-wrapper">
     <div class="sidebar-brand">
-        <a href="{{ route('admin.beranda') }}">SPDHTC</a>
+        <a href="{{ route('admin.beranda') }}">SALAKEXPERT</a>
     </div>
     <div class="sidebar-brand sidebar-brand-sm">
-        {{-- <a href="index.html" class="">SPDHTC</a> --}}
+        {{-- <a href="index.html" class="">SALAKEXPERT</a> --}}
     </div>
     <ul class="sidebar-menu">
         <li class="menu-header">Dashboard</li>

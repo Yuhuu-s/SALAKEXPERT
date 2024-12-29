@@ -24,7 +24,7 @@ class ShowPdfController extends Controller
         }
         $data = ['penyakit' => $data];
         $pdf = Pdf::loadView('pdf.penyakit', $data);
-        return $pdf->stream('penyakit_SPDHTC.pdf');
+        return $pdf->stream('penyakit_SALAKEXPERT.pdf');
     }
 
     public function gejalaPdf()
@@ -38,7 +38,7 @@ class ShowPdfController extends Controller
         }
         $data = ['gejala' => $data];
         $pdf = Pdf::loadView('pdf.gejala', $data);
-        return $pdf->stream('gejala_SPDHTC.pdf');
+        return $pdf->stream('gejala_SALAKEXPERT.pdf');
     }
 
     public function rulePdf()
@@ -51,7 +51,7 @@ class ShowPdfController extends Controller
         }
         $data = ['rules' => $data];
         $pdf = Pdf::loadView('pdf.rule', $data);
-        return $pdf->stream('rule_SPDHTC.pdf');
+        return $pdf->stream('rule_SALAKEXPERT.pdf');
     }
 
     public function historiDiagnosisPdf()
@@ -64,6 +64,6 @@ class ShowPdfController extends Controller
         }
         $data = ['historiDiagnosis' => $data];
         $pdf = Pdf::loadView('pdf.histori-diagnosis', $data);
-        return $pdf->stream('histori-diagnosis_SPDHTC.pdf');
+        return $pdf->stream('histori-diagnosis_SALAKEXPERT.pdf');
     }
 }

@@ -4,16 +4,16 @@
         <div class="container">
             <div class="row min-vh-100 min-vh-u-lg-85 align-content-center">
                 <div class="col-12 col-lg-6 py-5" data-aos="fade-right" id="container-image-hero">
-                    <img class="img-fluid bg-body-tertiary rounded" id="gambar-cabai"
-                        src="{{ asset('assets/img/gambar-cabai.webp') }}" width="1280" height="853"
-                        alt="Gambar Cabai https://fumida.co.id/wp-content/uploads/2021/03/67.-membasmi-hama-cabai.jpg">
+                    <img class="img-fluid bg-body-tertiary rounded" id="gambar-salak"
+                        src="{{ asset('assets/img/gambar-salak.jpg') }}" width="1280" height="853"
+                        alt="Gambar Salak https://asset.kompas.com/crops/afsar3RqdtHnlhnSyqrd6B168Us=/0x0:500x333/1200x800/data/photo/2023/04/29/644cd07b765eb.jpg">
                 </div>
                 <div class="col-12 col-lg-6 align-self-center px-3 px-sm-5" data-aos="fade-left" data-aos-anchor="body"
                     id="col2">
                     <h1 class="text-start font-bold ">
-                        Sistem Pakar Diagnosis Penyakit Tanaman Cabai
+                        Sistem Pakar Diagnosis Penyakit Tanaman Salak
                     </h1>
-                    <p class="lead">Temukan penyakit yang menyerang tanaman cabai anda serta ketahui penyebab dan solusi
+                    <p class="lead">Temukan penyakit yang menyerang tanaman salak anda serta ketahui penyebab dan solusi
                         pengendaliannya. Daftar sekarang lalu mulai diagnosis untuk hasil panen yang lebih baik!</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@
     <div id="penyakit" class=" section">
         <div class="container">
             <h2 class="fw-semibold" data-aos="fade-up">
-                Daftar Penyakit Tanaman Cabai
+                Daftar Penyakit Tanaman Salak
             </h2>
             <div class="row">
                 <div class="col-12">

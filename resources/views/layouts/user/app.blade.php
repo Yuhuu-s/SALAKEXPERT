@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="keywords" content="Sistem Pakar, Forward Chaining, Penyakit Tanaman Cabai">
+    <meta name="keywords" content="Sistem Pakar, Forward Chaining, Penyakit Tanaman Salak">
     <meta name="description"
-        content="Sistem pakar untuk mendeteksi/mendiagnosis penyakit pada tanaman cabai dengan algoritma forward chaining">
+        content="Sistem pakar untuk mendeteksi/mendiagnosis penyakit pada tanaman salak dengan algoritma forward chaining">
 
-    <link rel="icon" href="{{ asset('favicon-cabai.ico') }}">
-    <title>@yield('title') SPDHTC</title>
+    <link rel="icon" href="{{ asset('snake-fruit.ico') }}">
+    <title>@yield('title') SALAKEXPERT</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preload" as="style" href="{{ asset('/assets/css/user/splash-screen.css') }}">
     <link rel="stylesheet" href="{{ asset('/assets/css/user/splash-screen.css') }}">

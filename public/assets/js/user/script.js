@@ -368,9 +368,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 window.addEventListener('load', async () => {
-    const gambarCabai = document.getElementById('gambar-cabai');
+    const gambarSalak = document.getElementById('gambar-salak');
 
-    new simpleParallax(gambarCabai, {
+    new simpleParallax(gambarSalak, {
         delay: 1,
         transition: 'cubic-bezier(0,0,0,1)'
     });

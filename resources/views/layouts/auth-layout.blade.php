@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>@yield('title') &mdash; SPDHTC</title>
-    <link rel="icon" href="{{ asset('favicon-cabai.ico') }}">
+    <title>@yield('title') &mdash; SALAKEXPERT</title>
+    <link rel="icon" href="{{ asset('snake-fruit.ico') }}">
 
     <!-- General CSS Files -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -34,7 +34,7 @@
         <div class="simple-footer mb-0">
             <small>
                 Copyright &copy; {{ date('Y') }}
-                <a href="https://github.com/rizkyilhampra/spdhtc" style="font-weight: 600; text-decoration: underline;" target="_blank">SPDHTC</a>. All rights reserved.
+                <a href="https://github.com/rizkyilhampra/spdhtc" style="font-weight: 600; text-decoration: underline;" target="_blank">SALAKEXPERT</a>. All rights reserved.
             </small>
         </div>
     </footer>

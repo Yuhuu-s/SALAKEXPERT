@@ -1,7 +1,7 @@
 <div class="footer-left">
     Copyright &copy; 2023 <div class="bullet"></div>
     <a href="https://github.com/rizkyilhampra/spdhtc">
-        SPDHTC
+        SALAKEXPERT
     </a>
 </div>
 <div class="footer-right">

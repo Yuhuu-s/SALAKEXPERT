@@ -26,7 +26,7 @@
 Virus Kuning (Gemini Virus)
 1. Penggunaan mulsa perak di dataran tinggi, dan jerami di dataran rendah untuk mengurangi infestasi serangga pengisap daun.
 2. Eradikasi tanaman sakit dengan mencabut dan memusnahkan untuk mencegah penularan.
-3. Menanam varietas yang agak tahan, misalnya cabai keriting jenis Bukittinggi.
+3. Menanam varietas yang agak tahan, misalnya salak keriting jenis Bukittinggi.
 4. Melakukan rotasi tanaman dengan tanaman bukan inang dan sanitasi lingkungan.
 5. Untuk gejala ringan, aplikasikan PGPR atau pupuk hayati.
 6. Pemupukan berimbang (150-200 kg Urea, 450-500 kg ZA, 100-150 kg TSP, 100-150 kg KCl, dan 20-30 ton pupuk organik per hektar).
@@ -35,7 +35,7 @@ Virus Kuning (Gemini Virus)
 Kerupuk
 1. Musnahkan tanaman muda yang terinfeksi dan sulam dengan yang sehat.
 2. Penggunaan mulsa plastik perak di dataran tinggi, dan jerami di dataran rendah untuk mengurangi infestasi kutu daun.
-3. Intercropping antara cabai dan tomat di dataran tinggi.
+3. Intercropping antara salak dan tomat di dataran tinggi.
 4. Pemupukan berimbang (Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton per hektar).
 5. Aplikasi insektisida dengan nozel kipas untuk mengendalikan kutu daun dan mengurangi volume insektisida sebanyak 30%.
 
@@ -56,7 +56,7 @@ Bercak Daun
 Busuk Daun Fitoftora
 1. Penggunaan mulsa plastik perak di dataran tinggi, dan jerami di dataran rendah, terutama di musim hujan.
 2. Musnahkan tanaman muda yang terinfeksi dan sulam dengan yang sehat.
-3. Intercropping antara cabai dan tomat di dataran tinggi.
+3. Intercropping antara salak dan tomat di dataran tinggi.
 4. Pemupukan berimbang (Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton per hektar).
 5. Pengendalian dengan fungisida sistemik Metalaksil-M 4% + Mancozeb 64% (Ridomil Gold MZ® 4/64 WP) dan fungisida kontak klorotalonil (Daconil® 500 F).
 
@@ -66,7 +66,7 @@ Layu Fusarium
 3. Hindari lahan yang terkontaminasi penyakit layu.
 4. Sterilkan tanah dan gunakan pupuk organik matang serta agens hayati (Trichoderma atau PGPR).
 5. Bersihkan lahan dari sisa tanaman dan gulma, balik tanah agar terkena sinar matahari.
-6. Intercropping antara cabai dan tomat di dataran tinggi.
+6. Intercropping antara salak dan tomat di dataran tinggi.
 7. Pemupukan berimbang (Urea 150-200 kg, ZA 450-500 kg, TSP 100-150 kg, KCl 100-150 kg, dan pupuk organik 20-30 ton per hektar).
 
 Layu Bakteri Ralstonia
