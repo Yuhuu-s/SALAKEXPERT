@@ -68,14 +68,14 @@ _Dataset_ yang digunakan dalam aplikasi atau sistem ini dapat dilihat di [sini](
 
 1. Masuk ke direktori _root_ dari web server atau _local development environment_
     > Misalnya, untuk XAMPP di Windows, direktori root biasanya berada di `C:\xampp\htdocs` dan untuk Laragon, biasanya berada di `C:\laragon\www`
-2. _Clone_ repositori atau _download_ ZIP di [sini]((https://github.com/Yuhuu-s/SALAKEXPERT)) kemudian ekstraksi
+2. _Clone_ repositori atau _download_ ZIP di [sini](https://github.com/Yuhuu-s/SALAKEXPERT) kemudian ekstraksi
 
     1. _Clone_ menggunakan Git
 
         > Abaikan langkah ini, jika memilih _download_ ZIP
 
         ```bash
-        git clone https://github.com/rizkyilhampra/spdhtc.git spdhtc
+        git clone https://github.com/Yuhuu-s/SALAKEXPERT.git spdhtc
         ```
 
 3. Masuk ke direktori/folder `spdhtc`
@@ -167,7 +167,7 @@ _Dataset_ yang digunakan dalam aplikasi atau sistem ini dapat dilihat di [sini](
 
 1. Clone repositori
     ```bash
-    git clone https://github.com/rizkyilhampra/spdhtc.git spdhtc
+    git clone https://github.com/Yuhuu-s/SALAKEXPERT.git spdhtc
     ```
 2. Masuk ke direktori/folder `spdhtc`
     ```bash
@@ -240,7 +240,7 @@ _Dataset_ yang digunakan dalam aplikasi atau sistem ini dapat dilihat di [sini](
 
 1. Clone repositori
     ```bash
-    git clone https://github.com/rizkyilhampra/spdhtc.git spdhtc
+    git clone https://github.com/Yuhuu-s/SALAKEXPERT.git spdhtc
     ```
 2. Masuk ke direktori/folder `spdhtc`
     ```bash
